@@ -23,7 +23,6 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
-      <img src='https://upload.wikimedia.org/wikipedia/commons/0/0c/LAMP_software_bundle_icon.svg' alt='lamp' width='40' height='40' style='vertical-align:middle;'/>
     "
 
   - title: DevOps & Cloud Tools
@@ -41,7 +40,8 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg)
-      <img src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg' alt='huggingface' width='40' height='40' style='vertical-align:middle;'/>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
+      ![devicon](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)
     "
 
   - title: Databases
@@ -62,11 +62,11 @@ contents:
 
   - title: Currently Learning
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg)
-      🧠 Generative AI (LLMs, LoRA, RAG, Phi-3, LangChain)  
-      🗃️ Vector Databases (FAISS, ChromaDB, Weaviate)  
-      🛠️ Agent Frameworks (LangGraph, CrewAI, AutoGen)  
-      🧩 Multi-modal AI (text-image-video interaction with models like Gemini & GPT-4o)  
-      🧵 MCP Servers and orchestration of distributed GenAI agents  
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg)<br>
+      🧠 Generative AI (LLMs, LoRA, RAG, Phi-3, LangChain)<br>
+      🗃️ Vector Databases (FAISS, ChromaDB, Weaviate)<br>
+      🛠️ Agent Frameworks (LangGraph, CrewAI, AutoGen)<br>
+      🧩 Multi-modal AI (text-image-video interaction with models like Gemini & GPT-4o)<br>
+      🧵 MCP Servers and orchestration of distributed GenAI agents<br>
       🌍 LLM application architecture across cloud and edge
     "
