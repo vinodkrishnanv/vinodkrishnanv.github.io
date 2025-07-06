@@ -6,7 +6,7 @@ contents:
     description: 
       - NIQ''s inhouse metering and billing application, a tool to enable pay-as-you-go feature
       - "Technology Used: Spring Boot, Typescript/Angular 10, Postgresql, Azure Cloud"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+#    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
   - title: "Greyferret ([https://greyferret.com/](https://greyferret.com/))" 
     description: 
       - Greyferret is a Marketing Analytics SaaS (Software as a Service) platform on the cloud.
@@ -14,4 +14,4 @@ contents:
       - Unearth and understand the trends relating to the What, Why and How of online purchase and customer engagement behavior.
       - Steer personalized, one to one marketing campaigns across email, mobile and web to influence positive customer actions.
       - "Technology Used: Drupal"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+#    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
