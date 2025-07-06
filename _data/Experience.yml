@@ -2,21 +2,14 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
-    description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
+  - title: Nielsen IQ
     role: Senior Software Engineer
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - TODO
+    date: Feb. 2017 - Ongoin
+  - title: Bounteous (formerly Lister Digital)
+    role: Software Engineer
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Designed and developed Greyferret,a Marketing Analysis service (SaaS) from the ground up.
+      - Integrated with '*Shopify, Bigcommmerce, Magento and MailChimp*'
+    date: Oct. 2014 - Feb. 2017
